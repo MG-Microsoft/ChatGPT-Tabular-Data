@@ -1,7 +1,7 @@
 # Use ChatGPT to Chat and Query Tabular/SQL Data
 
 ## installation
-To get started, beore runing the notebook in this repo, install LangChain with the following command:
+To get started, before running the notebook in this repo, install LangChain with the following command:
 
 pip install langchain
 pip install openai
