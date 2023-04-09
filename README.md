@@ -4,6 +4,7 @@
 To get started, beore runing the notebook in this repo, install LangChain with the following command:
 
 pip install langchain
+pip install openai
 
 ## Environment Setup
 
