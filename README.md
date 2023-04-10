@@ -1,4 +1,4 @@
-# Use ChatGPT to Chat and Query Tabular/SQL Data
+# Use ChatGPT to Chat with Tabular/SQL Data
 
 ## installation
 To get started, before running the notebook in this repo, install LangChain with the following command:
